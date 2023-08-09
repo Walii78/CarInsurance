@@ -1,0 +1,1 @@
+This is a simple web application developed using ASP.NET MVC and Entity Framework to calculate insurance quotes for potential customers based on various factors such as age, car details, driving history, and coverage type.
